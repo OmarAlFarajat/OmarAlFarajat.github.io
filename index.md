@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Riot Busters](/sample_page)
-<img src="images/riot-busters_thumbnail.jpg?raw=true"/>
+<img src="images/riot-busters_thumbnail.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
