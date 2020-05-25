@@ -19,7 +19,7 @@
 
 ### Mobile
 
-<p>Coming soon!</p>
+<p><i>Coming soon!</i></p>
 
 ---
 
@@ -27,7 +27,7 @@
 
 ### Proof of Concept
 
-<p>Coming soon!</p>
+<p><i>Coming soon!</i></p>
 
 ---
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>-->
