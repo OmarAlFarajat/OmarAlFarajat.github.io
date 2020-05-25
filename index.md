@@ -23,8 +23,6 @@
 
 ---
 
----
-
 ### Proof of Concept
 
 <p><i>Coming soon!</i></p>
