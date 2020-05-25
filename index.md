@@ -4,16 +4,16 @@
 
 ### Game Development
 
-[Riot Busters (Unity, C#)](/sample_page)
+[Riot Busters (C#, Unity)](/sample_page)
 <img src="images/riot-busters_thumbnail.jpg?raw=true"/>
 
 ---
-[New Haven (C++)](/pdf/sample_presentation.pdf)
+[New Haven (C++, CImg)](/pdf/sample_presentation.pdf)
 <img src="images/new-haven_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Chrono Abyss (C#, Unity](http://example.com/)
+<img src="images/chrono-abyss_thumbnail.jpg?raw=true"/>
 
 ---
 
