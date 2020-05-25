@@ -12,7 +12,7 @@
 <img src="images/new-haven_thumbnail.jpg?raw=true"/>
 
 ---
-[Chrono Abyss (C#, Unity](http://example.com/)
+[Chrono Abyss (C#, Unity)](http://example.com/)
 <img src="images/chrono-abyss_thumbnail.jpg?raw=true"/>
 
 ---
