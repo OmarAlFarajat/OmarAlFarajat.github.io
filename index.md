@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Game Development
 
-[Riot Busters](/sample_page)
+[Riot Busters (Unity, C#)](/sample_page)
 <img src="images/riot-busters_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[New Haven (C++)](/pdf/sample_presentation.pdf)
 <img src="images/new-haven_thumbnail.jpg?raw=true"/>
 
 ---
