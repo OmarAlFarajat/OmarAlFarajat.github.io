@@ -14,7 +14,12 @@
 ---
 [Chrono Abyss (C#, Unity)](https://github.com/christopherdufort/Dream-Eater-Interactive)
 <img src="images/chrono-abyss_thumbnail.jpg?raw=true"/>
+---
 
+### Rendering, Animation, AI
+
+[Simple Ray Tracer (C++, GLM, CImg)](https://github.com/OmarAlFarajat/Simple-Ray-Tracer)
+<img src="images/ray-tracer_thumbnail.jpg?raw=true"/>
 ---
 
 ### Mobile
@@ -22,9 +27,7 @@
 [Fitness Tracking App (Java, Android)](https://github.com/comp354-group-i-j/fitnesstracking)
 <img src="images/fitness-app_thumbnail.jpg?raw=true"/>
 
----
 
-### Proof of Concept
 
 <p><i>Coming soon!</i></p>
 
