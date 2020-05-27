@@ -16,6 +16,10 @@
 
 [Chrono Abyss (C#, Unity)](https://github.com/christopherdufort/Dream-Eater-Interactive)
 <img src="images/chrono-abyss_thumbnail.jpg?raw=true"/>
+---
+
+[Gold Diver 3D (C#, Unity)](https://github.com/OmarAlFarajat/Gold-Diver-3D)
+<img src="images/gold-diver-3d_thumbnail.jpg?raw=true"/>
 
 ---
 
