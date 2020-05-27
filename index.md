@@ -25,6 +25,10 @@
 ---
 ### Rendering, Animation, AI
 
+[Points-of-Visibility Graph with A* Pathfinding (C#, Unity)](https://github.com/OmarAlFarajat/Unity-POV-Graph)
+<img src="images/pov-graph_thumbnail.jpg?raw=true"/>
+
+---
 [Simple Ray Tracer (C++, GLM, CImg)](https://github.com/OmarAlFarajat/Simple-Ray-Tracer)
 <img src="images/ray-tracer_thumbnail.jpg?raw=true"/>
 
