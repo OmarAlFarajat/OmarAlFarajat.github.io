@@ -20,7 +20,7 @@
 ### Mobile
 
 [Fitness Tracking App (Java, Android)](https://github.com/comp354-group-i-j/fitnesstracking)
-<img src="images/fitness-tracking_thumbnail.jpg?raw=true"/>
+<img src="images/fitness-app_thumbnail.jpg?raw=true"/>
 
 ---
 
