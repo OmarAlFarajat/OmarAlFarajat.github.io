@@ -19,7 +19,8 @@
 
 ### Mobile
 
-<p><i>Coming soon!</i></p>
+[Fitness Tracking App (Java, Android)](https://github.com/comp354-group-i-j/fitnesstracking)
+<img src="images/fitness-tracking_thumbnail.jpg?raw=true"/>
 
 ---
 
@@ -27,6 +28,5 @@
 
 <p><i>Coming soon!</i></p>
 
----
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>-->
 <!-- Remove above link if you don't want to attibute -->
