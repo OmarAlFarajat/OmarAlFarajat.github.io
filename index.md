@@ -41,6 +41,11 @@
 
 ---
 
+[Space Simulation (C++, OpenGL)](https://github.com/zee366/SpaceSimulation)
+<img src="images/space-sim_thumbnail.jpg?raw=true"/>
+
+---
+
 [OpenGL Rendering (C++, OpenGL)](https://github.com/OmarAlFarajat/OpenGL-Rendering)
 <img src="images/opengl-render_thumbnail.jpg?raw=true"/>
 
