@@ -19,6 +19,10 @@
 
 ---
 
+[Gold Diver 2D (C#, Unity)](https://github.com/OmarAlFarajat/Gold-Diver-2D)
+<img src="images/gold-diver-2d_thumbnail.jpg?raw=true"/>
+
+---
 ### Rendering, Animation, AI
 
 [Simple Ray Tracer (C++, GLM, CImg)](https://github.com/OmarAlFarajat/Simple-Ray-Tracer)
