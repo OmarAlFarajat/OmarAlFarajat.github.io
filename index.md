@@ -16,6 +16,7 @@
 
 [Chrono Abyss (C#, Unity)](https://github.com/christopherdufort/Dream-Eater-Interactive)
 <img src="images/chrono-abyss_thumbnail.jpg?raw=true"/>
+
 ---
 
 [Gold Diver 3D (C#, Unity)](https://github.com/OmarAlFarajat/Gold-Diver-3D)
@@ -27,6 +28,7 @@
 <img src="images/gold-diver-2d_thumbnail.jpg?raw=true"/>
 
 ---
+
 ### Rendering, Animation, AI
 
 [Kinect Motion Capture (C++, OpenGL)](https://github.com/OmarAlFarajat/Kinect-Motion-Capture)
@@ -43,6 +45,7 @@
 <img src="images/opengl-render_thumbnail.jpg?raw=true"/>
 
 ---
+
 [Simple Ray Tracer (C++, GLM, CImg)](https://github.com/OmarAlFarajat/Simple-Ray-Tracer)
 <img src="images/ray-tracer_thumbnail.jpg?raw=true"/>
 
