@@ -4,11 +4,6 @@
 
 ### Game Development
 
-<!-- [Riot Busters (C#, Unity)](https://github.com/zee366/RiotBusters) -->
-<!-- <img src="images/riot-busters_thumbnail.jpg?raw=true"/> -->
-
-<!-- --- -->
-
 [New Haven (C++, CImg)](https://github.com/OmarAlFarajat/New-Haven-Board-Game)
 <img src="images/new-haven_thumbnail.jpg?raw=true"/>
 
@@ -26,6 +21,11 @@
 
 [Gold Diver 2D (C#, Unity)](https://github.com/OmarAlFarajat/Gold-Diver-2D)
 <img src="images/gold-diver-2d_thumbnail.jpg?raw=true"/>
+
+---
+
+[City Defense (C#, Unity)](https://github.com/zee366/CityDefense)
+<img src="images/city-defense_thumbnail.jpg?raw=true"/>
 
 ---
 
