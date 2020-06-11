@@ -4,6 +4,8 @@
 
 ## Game Development
 
+---
+
 ### New Haven (C++, CImg)
 <img src="images/new-haven_thumbnail.jpg?raw=true"/>
 <br> [![View on GitHub](images/github_icon.jpg?raw=true)](https://github.com/OmarAlFarajat/New-Haven-Board-Game)
@@ -37,7 +39,9 @@
 
 ---
 
-## Rendering, Animation, AI
+## Rendering, Animation, AI, Other
+
+---
 
 ### Kinect Motion Capture (C++, OpenGL)
 <img src="images/kinect-mocap_thumbnail.jpg?raw=true"/>
@@ -69,8 +73,6 @@
 <br> [![View on GitHub](images/github_icon.jpg?raw=true)](https://github.com/OmarAlFarajat/Simple-Ray-Tracer)
 
 ---
-
-## Mobile
 
 ### Fitness Tracking App (Java, Android)
 <img src="images/fitness-app_thumbnail.jpg?raw=true"/>
