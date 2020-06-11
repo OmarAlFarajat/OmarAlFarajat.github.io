@@ -8,8 +8,8 @@
 <img src="images/new-haven_thumbnail.jpg?raw=true"/>
 
 ---
-
-**[Chrono Abyss (C#, Unity)](https://github.com/christopherdufort/Dream-Eater-Interactive)**
+### Chrono Abyss (C#, Unity)
+<!-- **[Chrono Abyss (C#, Unity)](https://github.com/christopherdufort/Dream-Eater-Interactive)** -->
 <br>[![View on YouTube](images/youtube_icon.jpg?raw=true)](https://www.youtube.com/watch?v=_nvECaCOx4Y)
 [![View on GitHub](images/github_icon.jpg?raw=true)](https://github.com/christopherdufort/Dream-Eater-Interactive)
 <img src="images/chrono-abyss_thumbnail.jpg?raw=true"/>
