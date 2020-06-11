@@ -10,16 +10,19 @@
 ---
 
 [Chrono Abyss (C#, Unity)](https://github.com/christopherdufort/Dream-Eater-Interactive)
+[View on YouTube](https://www.youtube.com/watch?v=_nvECaCOx4Y)
 <img src="images/chrono-abyss_thumbnail.jpg?raw=true"/>
 
 ---
 
 [Gold Diver 3D (C#, Unity)](https://github.com/OmarAlFarajat/Gold-Diver-3D)
+[View on YouTube](https://www.youtube.com/watch?v=sOH0t1z6z34)
 <img src="images/gold-diver-3d_thumbnail.jpg?raw=true"/>
 
 ---
 
 [Gold Diver 2D (C#, Unity)](https://github.com/OmarAlFarajat/Gold-Diver-2D)
+[View on YouTube](https://www.youtube.com/watch?v=XjyPEf7X2iE)
 <img src="images/gold-diver-2d_thumbnail.jpg?raw=true"/>
 
 ---
@@ -32,6 +35,7 @@
 ### Rendering, Animation, AI
 
 [Kinect Motion Capture (C++, OpenGL)](https://github.com/OmarAlFarajat/Kinect-Motion-Capture)
+[View on YouTube](https://www.youtube.com/watch?v=YRt8sM6gbdI)
 <img src="images/kinect-mocap_thumbnail.jpg?raw=true"/>
 
 ---
