@@ -8,14 +8,15 @@
 <img src="images/new-haven_thumbnail.jpg?raw=true"/>
 
 ---
-### Chrono Abyss (C#, Unity) [![View on YouTube](images/youtube_icon.jpg?raw=true)](https://www.youtube.com/watch?v=_nvECaCOx4Y) [![View on GitHub](images/github_icon.jpg?raw=true)](https://github.com/christopherdufort/Dream-Eater-Interactive)
-
-<!-- **[Chrono Abyss (C#, Unity)](https://github.com/christopherdufort/Dream-Eater-Interactive)** -->
+**Chrono Abyss (C#, Unity)** 
+<br>[![View on YouTube](images/youtube_icon.jpg?raw=true)](https://www.youtube.com/watch?v=_nvECaCOx4Y) 
+[![View on GitHub](images/github_icon.jpg?raw=true)](https://github.com/christopherdufort/Dream-Eater-Interactive)
 <img src="images/chrono-abyss_thumbnail.jpg?raw=true"/>
 ---
 
-**[Gold Diver 3D (C#, Unity)](https://github.com/OmarAlFarajat/Gold-Diver-3D)**
+**Gold Diver 3D (C#, Unity)**
 <br>[![View on YouTube](images/youtube_icon.jpg?raw=true)](https://www.youtube.com/watch?v=sOH0t1z6z34)
+[![View on GitHub](images/github_icon.jpg?raw=true)](https://github.com/OmarAlFarajat/Gold-Diver-3D)
 <img src="images/gold-diver-3d_thumbnail.jpg?raw=true"/>
 
 ---
