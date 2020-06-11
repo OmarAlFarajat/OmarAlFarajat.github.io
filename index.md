@@ -1,7 +1,6 @@
 # Portfolio
 
 ---
----
 
 ## Game Development
 
@@ -10,7 +9,6 @@
 <br> [![View on GitHub](images/github_icon.jpg?raw=true)](https://github.com/OmarAlFarajat/New-Haven-Board-Game)
 
 ---
----
 
 ### Chrono Abyss (C#, Unity)
 <img src="images/chrono-abyss_thumbnail.jpg?raw=true"/>
@@ -18,13 +16,11 @@
 [![View on YouTube](images/youtube_icon.jpg?raw=true)](https://www.youtube.com/watch?v=_nvECaCOx4Y) 
 
 ---
----
 
 ### City Defense (C#, Unity)
 <img src="images/city-defense_thumbnail.jpg?raw=true"/>
 <br> [![View on GitHub](images/github_icon.jpg?raw=true)](https://github.com/zee366/CityDefense)
 
----
 ---
 
 ### Gold Diver 3D (C#, Unity)
@@ -33,14 +29,12 @@
 [![View on YouTube](images/youtube_icon.jpg?raw=true)](https://www.youtube.com/watch?v=sOH0t1z6z34)
 
 ---
----
 
 ### Gold Diver 2D (C#, Unity)
 <img src="images/gold-diver-2d_thumbnail.jpg?raw=true"/>
 <br> [![View on GitHub](images/github_icon.jpg?raw=true)](https://github.com/OmarAlFarajat/Gold-Diver-2D)
 [![View on YouTube](images/youtube_icon.jpg?raw=true)](https://www.youtube.com/watch?v=XjyPEf7X2iE)
 
----
 ---
 
 ## Rendering, Animation, AI
@@ -51,13 +45,11 @@
 [![View on YouTube](images/youtube_icon.jpg?raw=true)](https://www.youtube.com/watch?v=YRt8sM6gbdI)
 
 ---
----
 
 ### Points-of-Visibility Graph with A* Pathfinding (C#, Unity)
 <img src="images/pov-graph_thumbnail.jpg?raw=true"/>
 <br> [![View on GitHub](images/github_icon.jpg?raw=true)](https://github.com/OmarAlFarajat/Unity-POV-Graph)
 
----
 ---
 
 ### Space Simulation (C++, OpenGL)
@@ -65,20 +57,17 @@
 <br> [![View on GitHub](images/github_icon.jpg?raw=true)](https://github.com/zee366/SpaceSimulation)
 
 ---
----
 
 ### OpenGL Rendering (C++, OpenGL)
 <img src="images/opengl-render_thumbnail.jpg?raw=true"/>
 <br> [![View on GitHub](images/github_icon.jpg?raw=true)](https://github.com/OmarAlFarajat/OpenGL-Rendering)
 
 ---
----
 
 ### Simple Ray Tracer (C++, GLM, CImg)
 <img src="images/ray-tracer_thumbnail.jpg?raw=true"/>
 <br> [![View on GitHub](images/github_icon.jpg?raw=true)](https://github.com/OmarAlFarajat/Simple-Ray-Tracer)
 
----
 ---
 
 ## Mobile
