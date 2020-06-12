@@ -78,4 +78,4 @@
 ### Fitness Tracking App (Java, Android)
 <img src="images/fitness-app_thumbnail.jpg?raw=true"/>
 <br> [![View on GitHub](images/github_icon.jpg?raw=true)](https://github.com/comp354-group-i-j/fitnesstracking)
-
+[![View on YouTube](images/youtube_icon.jpg?raw=true)](https://www.youtube.com/watch?v=rrMi6l6N2rk)
