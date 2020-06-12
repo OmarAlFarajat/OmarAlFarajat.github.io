@@ -9,7 +9,7 @@
 ### New Haven (C++, CImg)
 <img src="images/new-haven_thumbnail.jpg?raw=true"/>
 <br> [![View on GitHub](images/github_icon.jpg?raw=true)](https://github.com/OmarAlFarajat/New-Haven-Board-Game)
-
+[![View on YouTube](images/youtube_icon.jpg?raw=true)](https://youtu.be/8jRI4ZnfOsM) 
 ---
 
 ### Chrono Abyss (C#, Unity)
