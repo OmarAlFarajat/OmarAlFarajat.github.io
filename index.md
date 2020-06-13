@@ -23,6 +23,7 @@
 ### City Defense (C#, Unity)
 <img src="images/city-defense_thumbnail.jpg?raw=true"/>
 <br> [![View on GitHub](images/github_icon.jpg?raw=true)](https://github.com/zee366/CityDefense)
+[![View on YouTube](images/youtube_icon.jpg?raw=true)](https://www.youtube.com/watch?v=AyalH6pdn0c)
 
 ---
 
